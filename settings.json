@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "KnightSMP-RYD8.aternos.me",
+    "port": 22486,
     "version": "",
     "try-creative": false
   },
